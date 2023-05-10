@@ -91,17 +91,17 @@ print(lr.predict([prediction]))
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](output1.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output2.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output3.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output4.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output5.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output6.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output7.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output8.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output9.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output10.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](output11.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](output1.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output2.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output3.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output4.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output5.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output6.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output7.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output8.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output9.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output10.PNG)
+![the Logistic Regression Model to Predict the Placement Status of Student](output11.PNG)
 
 
 ## Result:
